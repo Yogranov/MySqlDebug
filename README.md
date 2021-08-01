@@ -1,4 +1,4 @@
-This is an awesome debug tool for website with MySql.
+This is an awesome debug tool for websites with MySql.<br>
 The script will give you the ability to work on your DB locally without any fears.
 
 What doest it do?
